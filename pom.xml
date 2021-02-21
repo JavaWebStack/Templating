@@ -13,6 +13,7 @@
         <module>Templating-Freemarker</module>
         <module>Templating-GSP</module>
         <module>Templating-Engine</module>
+        <module>Templating-Mustache</module>
     </modules>
 
     <repositories>
